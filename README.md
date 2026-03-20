@@ -61,6 +61,7 @@ Because the goal is not to build another bank. It is to UNBANK the world — to 
 
 | Resource | Link |
 |----------|------|
+| **Smart Contract & Whitepaper** | [AgAu](https://github.com/Arturito7ei/AgAu) |
 | **AgAu Sale Announcement** | [AgAu](https://github.com/Arturito7ei/AgAu) |
 | **SAFE Wallet** | [View on Safe](https://app.safe.global/eth:0x58E76A7473dB06dA9e0639bb3d05E9124a540937) |
 | **7EiBank White Paper** | [7EiBank](https://github.com/Arturito7ei/7EiBank) |
